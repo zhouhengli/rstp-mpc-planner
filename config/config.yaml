@@ -1,0 +1,5 @@
+## about mpc planner, please refer to: https://arxiv.org/abs/2507.04384
+## Mao W, Li Z, Luo Y, et al. Rapid and Safe Trajectory Planning over Diverse Scenes through Diffusion Composition[J]. arXiv preprint arXiv:2507.04384, 2025.
+
+map_dir: ./map
+map_discrete_size: 0.05 # m

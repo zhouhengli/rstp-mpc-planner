@@ -1,0 +1,13 @@
+## ignore this folder or files ##
+/__pycache__
+/.VSCodeCounter
+
+# python
+*.py[cod]
+
+# file 
+/media/*
+/dataset/*.pkl
+/.vscode/*
+static.txt
+dynamic.txt
