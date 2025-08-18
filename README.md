@@ -6,8 +6,6 @@ Do you find that tuning dynamic collision-avoidance parameters is often time-con
 
 <div style="display: flex; justify-content: flex-start;">
 	<img src="./assets/2025-08-13_11-57-12_static_N20_SensorDis1_steps119_N_118.gif" alt="GIF 1" width="37%" style="margin-right: 10px;"/>
-  <img src="./assets/2025-08-13_11-58-23_static_N20_SensorDis1_steps126_N_125.gif" alt="GIF 2" width="37%"  />
-  
 </div>
 
 <div style="display: flex; justify-content: flex-start;">
