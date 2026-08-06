@@ -67,7 +67,7 @@ The improved Euler method is used to discretize the kinematic model $f(\zeta),$ 
 
 ```math
 	\begin{equation}
-		\begin{aligned}\label{eq:mpc}
+		\begin{aligned}
 			\min_{\boldsymbol{\zeta}, \mathbf{u}} \quad & \gamma \cdot J_\textrm{dynamic} +   \sum_{k=1}^{N_p}   \overbrace{ \left( \Vert \mathbf{A} \cdot \boldsymbol{\zeta}_k - \mathbf{p}_{s_k}^{\text{ref}} \Vert^2_{Q_1} \right)}^{J_\textrm{static}}  \\
 			& + \sum_{k=1}^{N_p-1}\underbrace{ \Vert \Delta \mathbf{u}_k \Vert^2_{R_1}
 				+ \Vert \mathbf{u}_k \Vert^2_{R_2}
