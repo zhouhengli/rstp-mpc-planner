@@ -1,4 +1,4 @@
-# MPC Planner for Dataset Generation
+# MPC Planner for Dataset Generation and Planning
 
 <div align="center">
   <img src="https://img.shields.io/badge/Conference-IECON%202026-blueviolet" />
@@ -6,17 +6,19 @@
   <img src="https://img.shields.io/badge/Feature-Collision%20Avoidance-green" />
 </div>
 
+<br>
+
 Deploy and visualize the MPC-based trajectory planner in paper "[Rapid and Safe Trajectory Planning over Diverse Scenes through Diffusion Composition](https://arxiv.org/abs/2507.04384)". It can serve both as a high-quality dataset generator and as a real-time trajectory planner. 
 
 <table>
   <tr>
     <td align="center" width="40%">
-      <img src="./assets/teaser2.gif" alt="teaser" width="420" />
+      <img src="./assets/teaser2.gif" alt="teaser" width="410" />
       <br/>
       <b>(a)</b> Only Consider Static Obstacles
     </td>
     <td align="center" width="40%">
-      <img src="./assets/teaser1.gif" alt="teaser" width="420" />
+      <img src="./assets/teaser1.gif" alt="teaser" width="410" />
       <br/>
       <b>(b)</b> Only Consider Dynamics Obstacles
     </td>
